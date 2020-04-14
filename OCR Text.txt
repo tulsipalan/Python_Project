@@ -1,0 +1,31 @@
+Reservation Form
+
+Name *
+
+Email *
+
+Room Type
+
+Arrival Date *
+
+Departure Date *
+
+Number of Guests *
+
+Free Pickup
+
+Flight Number
+
+Special Requests
+
+Select
+
+II
+
+O Yes O No
+
+Flight Number
+
+Type Here
+
+J
